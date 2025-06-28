@@ -45,16 +45,18 @@ This dashboard provides a clean, visual summary of:
 
 ---
 ## 📂 Repository Structure
-India Election-Dashboard 2024/
+India-Election-Results-2024/
 │
-├── India-Election-Dashboard 2024.pbix # Power BI dashboard file
+├── Indian Election Dashboard.pbix # Power BI dashboard file
 ├── data/
-│ ├── CSV Files.csv # Raw dataset
-│ └── cleaned_data.xlsx # Cleaned & processed data
-├── Party Alliannce DAX/
-│ └── #DAX Queries
+│ ├── CSV Files.zip # Raw dataset
+│ 
+├── DAX/
+│ └── Party Alliance DAX.txt # DAX queries used for modeling
 ├── images/
-│ └── election-results-dashboard.png # Dashboard image preview
+│ └── election-result-dashboard.png # Dashboard image preview
+Leader Images-20250625T100528Z-1-001.zip
+Logos-20250625T100754Z-1-001.zip
 └── README.md # Project documentation
 
 

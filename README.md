@@ -41,7 +41,7 @@ This dashboard provides a clean, visual summary of:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/election-results-dashboard.png)
+![Dashboard Screenshot](C:\Users\HP\OneDrive\Documents\Data Analyst\Election Project\images\election-result-dashboard.png)
 
 ---
 ## 📂 Repository Structure
